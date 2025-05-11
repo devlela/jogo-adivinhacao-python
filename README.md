@@ -1,2 +1,3 @@
-# jogo-adivinhacao-python
-Jogo de adivinhação no terminal com geração de número aleatório.
+# Projeto 05 - Jogo de Adivinhação
+
+Jogo em terminal para adivinhar um número secreto entre 1 e 100.
